@@ -1,0 +1,319 @@
+{
+  "users": [
+    {
+      "id": "7830e5903b889750f1e3",
+      "email": "sumitsaha@learnwithsumit.com",
+      "firstName": "Sumit",
+      "lastName": "Saha",
+      "avatar": "avatar-1708764729322-387087910.png",
+      "bio": "A Full Stack Web Application Developer from Bangladesh 🇧🇩 & a Programming Content Creator. Spend most of time coding outstanding projects or creating contents",
+      "password": "$2b$08$l8LuMMePmC0u.SdhhsMfqeo34HAF/o70eagtLO8V4HiHUyphNgu3q",
+      "favourites": []
+    },
+    {
+      "id": "346d7a36b3c41f3fbfa2",
+      "email": "tapasadhikary@learnwithsumit.com",
+      "firstName": "Tapas",
+      "lastName": "Adhikary",
+      "avatar": "avatar-1708764766479-243448656.png",
+      "bio": "Creating content is my passion. After spending over a decade in software engineering, I'm on a mission to make learning easy, and practical. I create written and video content on JavaScript, Web Development, Full Stack, and Career development.",
+      "password": "$2b$08$p15BeTInMoszGTNI3gtwNu2XiSadWVdPXaxQPQy8XZd1jj/6yPQae",
+      "favourites": []
+    },
+    {
+      "id": "f810ae24754a6cdc6d01",
+      "email": "akash@learnwithsumit.com",
+      "firstName": "Akash",
+      "lastName": "Ahmed",
+      "avatar": "avatar-1708764802524-290642702.png",
+      "bio": "I am a junior web developer, experience with web applications and building websites.",
+      "password": "$2b$08$FJn3tesDW9nqExgPr0MqKulICwf5B9FABPn1MjnImf2cXFm5o20KC",
+      "favourites": []
+    },
+    {
+      "id": "3d2dde4b6548275fb066",
+      "email": "saadhasan@learnwithsumit.com",
+      "firstName": "Saad",
+      "lastName": "Hasan",
+      "avatar": "avatar-1708764856675-623317122.jpg",
+      "bio": "I am Saad Hasan, self-taught Junior Software Developer from Bangladesh. I have been working as a Professional Frontend Developer for the last 1 year, Though I started my Self-Taught Programming Journey In 2014.",
+      "password": "$2b$08$e9uY0ZjxXJ9F4r36Ln4oCu4nLZ92OKaQ466VEVDtxBPCs/JL/ChR.",
+      "favourites": [
+        {
+          "id": "7c12b4b48531bcc995ae",
+          "title": "A guide to Prototype in JavaScript",
+          "tags": "programming, algorithm, prototype, javascript"
+        }
+      ]
+    },
+    {
+      "id": "65aff389f1822a5e9f43",
+      "email": "salahuddin@learnwithsumit.com",
+      "firstName": "Md",
+      "lastName": "salahuddin",
+      "avatar": "avatar-1708882452726-336021919.jpeg",
+      "bio": "",
+      "password": "$2b$08$At/U5W1/ASt/F3zWCqOZnO75ftNVjwR.RVf0FEhEdQ0nHkll5tJ4m",
+      "favourites": []
+    },
+    {
+      "id": "50db2216307ab6cb95d4",
+      "email": "m@m.com",
+      "firstName": "mikat ",
+      "lastName": "hossain",
+      "avatar": "avatar-1726820492495-848015070.jpg",
+      "bio": "my bio is updated!",
+      "password": "$2b$08$Dzup/23KUedn15DAj4SwzedOoJSsrk0/fz60p9ycIRh14ejWnmnle",
+      "favourites": [
+        {
+          "id": "4321b782f360f58c8c85",
+          "title": "Scope and Scope Chain in JavaScript",
+          "tags": "JavaScript, Async, Scope"
+        },
+        {
+          "id": "4321b782f360f58c8c88",
+          "title": "JSON Parse | Android | Java",
+          "tags": "android, java, kotlin, permission"
+        },
+        {
+          "id": "4321b782f360f58c8c87",
+          "title": "Create Custom Dialog with listview | Android | Java",
+          "tags": "android, java, kotlin, permission"
+        },
+        {
+          "id": "7c12b4b48531bcc995ae",
+          "title": "A guide to Prototype in JavaScript",
+          "tags": "programming, algorithm, prototype, javascript"
+        },
+        {
+          "id": "c8a7eb9eb747a5c03b09",
+          "title": "git hub",
+          "tags": "git, react"
+        },
+        {
+          "id": "0ee1eb74efe4f198c28c",
+          "title": "architecture",
+          "tags": "c, c++"
+        },
+        {
+          "id": "4a06ba02903298937297",
+          "title": "errr",
+          "tags": "err"
+        },
+        {
+          "id": "265de98f64775dc9a753",
+          "title": "aaaaaaaaaaaaaaaaaaaa",
+          "tags": "aa"
+        }
+      ]
+    },
+    {
+      "id": "79bfd8be327b66ae63fc",
+      "email": "emranchy@gmail.com",
+      "firstName": "Mohammad",
+      "lastName": "Emran",
+      "avatar": "avatar-1726387197116-448779013.jpg",
+      "bio": "ijmnikmsd65",
+      "password": "$2b$08$w6Bj4dCddvNZrOxRgn4.ZubQMwCaT..X2U3/ffFMV76ozELvbRNmm",
+      "favourites": []
+    },
+    {
+      "id": "bc656f2239c8d91ec3cf",
+      "email": "m1@m.com",
+      "firstName": "nusrat",
+      "lastName": "jannat",
+      "avatar": "avatar-1726729871881-622455744.jpg",
+      "bio": "my name is nusrat shomi khan",
+      "password": "$2b$08$MgvdtlmKTFME0neiYSNQROajbPYKnU83yYIV1FkqrhOHZNdA.klim",
+      "favourites": [
+        {
+          "id": "8a9fd8449b22a6500d34",
+          "title": "mikat hossain title",
+          "tags": "first"
+        },
+        {
+          "id": "4321b782f360f58c8c87",
+          "title": "Create Custom Dialog with listview | Android | Java",
+          "tags": "android, java, kotlin, permission"
+        },
+        {
+          "id": "7c12b4b48531bcc995ae",
+          "title": "A guide to Prototype in JavaScript",
+          "tags": "programming, algorithm, prototype, javascript"
+        },
+        {
+          "id": "4321b782f360f58c8c89",
+          "title": "React useMemo Hook",
+          "tags": "android, java, kotlin, permission"
+        },
+        {
+          "id": "4323229cf2e65f67163e",
+          "title": "second",
+          "tags": "second"
+        },
+        {
+          "id": "9d5598ab44600a379103",
+          "title": "Dev Retro 2022: What made me a better developer this year?",
+          "tags": "programming, algorithm, prototype, javascript"
+        },
+        {
+          "id": "4321b782f360f58c8c86",
+          "title": "এন্ড্রয়েড পার্মিশন",
+          "tags": "android, java, kotlin, permission"
+        },
+        {
+          "id": "210470a416ea45b625b8",
+          "title": "Node.js back-end debugging process",
+          "tags": "programming, algorithm, prototype, javascript"
+        },
+        {
+          "id": "265de98f64775dc9a753",
+          "title": "aaaaaaaaaaaaaaaaaaaa",
+          "tags": "aa"
+        },
+        {
+          "id": "0ee1eb74efe4f198c28c",
+          "title": "architecture",
+          "tags": "c, c++"
+        }
+      ]
+    },
+    {
+      "id": "980864df5de46d49bf89",
+      "email": "t1@m.com",
+      "firstName": "test1",
+      "lastName": "tst",
+      "avatar": "avatar-1726725329212-733876498.jpg",
+      "bio": "",
+      "password": "$2b$08$p.e8GE0jacD/kM9gR/wkD.Nq5yUsVT3qjL6PeR2QgGcPToq6soXoe",
+      "favourites": []
+    },
+    {
+      "id": "530a68620b69de7e699f",
+      "email": "m10@m.com",
+      "firstName": "mikat",
+      "lastName": "khan",
+      "avatar": null,
+      "bio": "",
+      "password": "$2b$08$EcEaNvpBeFoPO4c8AGZRae9Eu/.rtRLe80m00qxcwqSwRXdWgwwkS",
+      "favourites": []
+    },
+    {
+      "id": "b525e0525445b38a4eee",
+      "email": "testuser@m.com",
+      "firstName": "test",
+      "lastName": "tst",
+      "avatar": null,
+      "bio": "",
+      "password": "$2b$08$uAYC9061W0XKRQ/jbiXq2eXQid4THUGczJHW5GPnbR9cPkUUxkIpm",
+      "favourites": []
+    },
+    {
+      "id": "5b828a93bb0f07b96fcd",
+      "email": "t10@m.com",
+      "firstName": "test",
+      "lastName": "user",
+      "avatar": null,
+      "bio": "",
+      "password": "$2b$08$6IFUQLAsO3enpro0qlZ5HOFoGicLg241JTj77iIk1M1PUbBtrotCO",
+      "favourites": []
+    },
+    {
+      "id": "3b1cc90e1f50bfa77a6c",
+      "email": "s@s.com",
+      "firstName": "shajjad",
+      "lastName": "hossain",
+      "avatar": "avatar-1726813802574-601014062.jpg",
+      "bio": "sdfsfd",
+      "password": "$2b$08$AiNtw6gvu9izOeKcMTit4OGu0.OQeq7Oi3i7ftHpHOE/7IMnUekIa",
+      "favourites": [
+        {
+          "id": "265de98f64775dc9a753",
+          "title": "aaaaaaaaaaaaaaaaaaaa",
+          "tags": "aa"
+        },
+        {
+          "id": "5261df077276987f79c6",
+          "title": "aaaaaaaaaa",
+          "tags": "aaaaaaaaaaaaaa"
+        }
+      ]
+    }
+  ],
+  "blogs": [
+    {
+      "id": "6fc321b9e47ed123b227",
+      "title": "DSA",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente iste at maiores repudiandae, maxime totam nam aliquid nostrum accusantium saepe fugit laborum repellendus incidunt amet, voluptatum quisquam aspernatur impedit eos.",
+      "thumbnail": "thumbnail-1726820781997-272212609.jpg",
+      "author": {
+        "id": "50db2216307ab6cb95d4",
+        "firstName": "mikat ",
+        "lastName": "hossain",
+        "avatar": "avatar-1726820492495-848015070.jpg"
+      },
+      "tags": "array, object",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-09-20T08:26:22.026Z"
+    },
+    {
+      "id": "af37a505d04d1addb65e",
+      "title": "checkout page design",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente iste at maiores repudiandae, maxime totam nam aliquid nostrum accusantium saepe fugit laborum repellendus incidunt amet, voluptatum quisquam aspernatur impedit eos.",
+      "thumbnail": "thumbnail-1726820809411-126120501.jpg",
+      "author": {
+        "id": "50db2216307ab6cb95d4",
+        "firstName": "mikat ",
+        "lastName": "hossain",
+        "avatar": "avatar-1726820492495-848015070.jpg"
+      },
+      "tags": "react, tailwind",
+      "likes": [
+        {
+          "id": "50db2216307ab6cb95d4"
+        }
+      ],
+      "comments": [
+        {
+          "id": "ee23ca7b88605f84d7dd",
+          "content": "nice",
+          "author": {
+            "id": "50db2216307ab6cb95d4",
+            "firstName": "mikat ",
+            "lastName": "hossain",
+            "avatar": "avatar-1726820492495-848015070.jpg"
+          }
+        },
+        {
+          "id": "a990fcfd75ad9aff12a7",
+          "content": "is this workable",
+          "author": {
+            "id": "50db2216307ab6cb95d4",
+            "firstName": "mikat ",
+            "lastName": "hossain",
+            "avatar": "avatar-1726820492495-848015070.jpg"
+          }
+        }
+      ],
+      "createdAt": "2024-09-20T08:26:49.430Z",
+      "isFavourite": false
+    },
+    {
+      "id": "4cc67ddf841764bbd586",
+      "title": "git",
+      "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente iste at maiores repudiandae, maxime totam nam aliquid nostrum accusantium saepe fugit laborum repellendus incidunt amet, voluptatum quisquam aspernatur impedit eos.",
+      "thumbnail": "thumbnail-1726820880082-939838833.jpg",
+      "author": {
+        "id": "50db2216307ab6cb95d4",
+        "firstName": "mikat ",
+        "lastName": "hossain",
+        "avatar": "avatar-1726820492495-848015070.jpg"
+      },
+      "tags": "git, github",
+      "likes": [],
+      "comments": [],
+      "createdAt": "2024-09-20T08:28:00.125Z"
+    }
+  ]
+}
